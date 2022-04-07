@@ -1,0 +1,9 @@
+[submodule "cores/psg/BeePSG"]
+	path = cores/psg/BeePSG
+	url = https://github.com/BueniaDev/BeePSG.git
+[submodule "cores/fm/BeeNuked"]
+	path = cores/fm/BeeNuked
+	url = https://github.com/BueniaDev/BeeNuked.git
+[submodule "cores/pcm/BeePCM"]
+	path = cores/pcm/BeePCM
+	url = https://github.com/BueniaDev/BeePCM.git
