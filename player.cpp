@@ -161,7 +161,7 @@ int main(int argc, char* argv[])
 
     if (argc < 2)
     {
-	cout << "Usage: blythievgm [VGM file]" << endl;
+	cout << "Usage: vgmplayer [VGM file]" << endl;
 	return 1;
     }
 
